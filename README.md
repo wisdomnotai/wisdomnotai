@@ -1,12 +1,19 @@
-- 👋 Hi, I’m Wisdom Alawode but you can call me @wisdomnotai
-- 👀 I’m interested in the ai space, building and deploying innovative tools using artificial intelligence
-- 🌱 I’m currently learning python and MySQL 
-- 💞️ I’m looking to collaborate on building ai agents and automating tasks with artificial intelligence
-- 📫 you reach me through email alawodewisdom2007@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: everything about me is fun, i think
+👋 Hi, I’m Alawode Wisdom
 
-<!---
-wisdomnotai/wisdomnotai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m a curious builder and aspiring AI engineer, currently studying at the University of Ibadan.
+
+- 🧠 Self-taught in Python and automation
+- ⚙️ Building tools that solve real problems (check my CLI Expense Tracker!)
+- 🤖 Exploring AI agents, LangChain, and Gen AI workflows
+- ✍️ Also a copywriter and scriptwriter — I know how to blend logic with language
+- 🌍 Passionate about tech for African students and creators
+
+🔭 I’m currently working on:
+- Smart automations with Python
+- Learning and building with LangChain, CrewAI, AutoGen
+- Sharing what I learn publicly (through GitHub and X)
+
+📫 Reach me via WhatsApp: [wa.me/+2349064514452](https://wa.me/+2349064514452)  
+📍 Let’s connect on Twitter/X: [@wisdomalawode](https://x.com/wisdomalawode)
+
+Let’s build the future. One script at a time.

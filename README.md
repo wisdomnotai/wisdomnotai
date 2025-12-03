@@ -1,27 +1,28 @@
 # 👋 Welcome
 
-I'm Wisdom Alawode, a Mathematics student and self-taught AI Software Engineer passionate about building systems that think, learn, and adapt. I'm currently exploring the intersection of mathematics, artificial intelligence, backend engineering, and agentic software.
+I'm Wisdom Alawode, a Mathematics student and self-taught Data Scientist and Machine Learning Engineer passionate about building systems that think, learn, and adapt. I'm currently exploring the intersection of mathematics, artificial intelligence, backend engineering and statistics.
 
-I enjoy turning abstract ideas into functional tools, from intelligent agents and backend APIs to research-grade AI systems. My work is guided by curiosity, precision, and a deep desire to contribute to the open-source world.
+I enjoy turning abstract ideas into functional tools, from building machine learning models and backend APIs to research-grade AI systems. My work is guided by curiosity, precision, and a deep desire to contribute to the open-source world.
 
 ## 🧠 Focus Areas
 
-- Autonomous AI agents (CrewAI, AutoGen, LangGraph)
-- Backend engineering with Python, FastAPI, and Supabase
+- Data Preprocessing and Analysis with R, Python and SQL
+- Machine learning and Mathematical modelling
+- Backend engineering with FastAPI, and Supabase
 - Applied mathematics in AI, optimization, and algorithm design
 - Conversational systems, memory architecture, and reasoning models
 - Low-code/no-code AI automation and tool orchestration
 
 ## ⚒️ What I'm Working On
 
-- Building full-stack AI agents that automate workflows and interact like humans
-- Developing backend systems to support AI-first applications
+- Data Preprocessing and Analysis 
+- Developing backend systems to support and Machine Learning Models and AI-first applications
 - Studying mathematical foundations for machine learning and algorithmic design
 - Shipping tools and projects that demonstrate real-world AI value
-- Creating educational tools to make advanced systems easier to understand
 
 ## 📈 Goals & Vision
 
+- Building low latency machine learning models for speed and optimization
 - Build intelligent systems that solve hard problems with simplicity and elegance  
 - Contribute meaningfully to the open-source AI ecosystem  
 - Use math + engineering to design scalable, thoughtful infrastructure  
